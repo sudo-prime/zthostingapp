@@ -1,0 +1,26 @@
+{
+  "name": "libzthostingapp",
+  "version": "1.0.0",
+  "description": "game hosting app built on zerotier",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudo-prime/zthostingapp.git"
+  },
+  "keywords": [
+    "libzt",
+    "zerotier"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudo-prime/zthostingapp/issues"
+  },
+  "homepage": "https://github.com/sudo-prime/zthostingapp#readme",
+  "devDependencies": {
+    "electron": "^10.1.1"
+  }
+}
